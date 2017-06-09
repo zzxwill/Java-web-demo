@@ -5,7 +5,7 @@
     <title>Aliyun CodePipeline</title>
 </head>
 <body>
-<h1>This is from host : </h1>
+<h1>This is from aliyun host : </h1>
 <span id="serviceIp" name="serviceIp"><%=InetAddress.getLocalHost()%></span>
 </body>
 </html>
