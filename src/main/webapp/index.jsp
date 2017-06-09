@@ -6,6 +6,6 @@
 </head>
 <body>
 <h1>This is from host : </h1>
-<input type="hidden" id="serviceIp" name="serviceIp" value="<%=InetAddress.getLocalHost().getHostAddress()%>">
+<input id="serviceIp" name="serviceIp" value="<%=InetAddress.getLocalHost()%>">
 </body>
 </html>
