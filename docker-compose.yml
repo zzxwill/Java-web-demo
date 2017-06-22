@@ -4,4 +4,4 @@ web:
   labels:
     aliyun.probe.url: 'tcp://container:8080'
     aliyun.probe.initial_delay_seconds: '10'
-    aliyun.routing.port_8080: codepipeline
+    aliyun.routing.port_8080: codepipeline/demo
