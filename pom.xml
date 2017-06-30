@@ -39,8 +39,8 @@
 
 	<pluginRepositories>
 		<pluginRepository>
-        <id>central</id>
-            <url>http://repo.alibaba-inc.com/nexus/content/groups/alirepositiry/</url>
+        <id>maven-net-cn</id>
+            <url>http://maven.net.cn/content/groups/public/</url>
 		</pluginRepository>
 	</pluginRepositories>
 </project>
