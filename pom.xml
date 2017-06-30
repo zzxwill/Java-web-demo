@@ -37,10 +37,12 @@
         </repository>
     </repositories>
 
-    <pluginRepositories>
-         <pluginRepository>
-                  <id>repo.jenkins-ci.org</id>
-                  <url>https://repo.jenkins-ci.org/public/</url>
-        	</pluginRepository>
-    </pluginRepositories>  
+		    <pluginRepositories>
+				<pluginRepository>
+                    <id>central</id>
+                    <name>Alibaba Plugin Repos Group</name>
+                    <url>http://repo.alibaba-inc.com/nexus/content/groups/alirepositiry/</url>
+				</pluginRepository>
+			</pluginRepositories>
+		</profile>
 </project>
